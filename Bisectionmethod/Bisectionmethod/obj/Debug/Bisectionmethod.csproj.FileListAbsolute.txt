@@ -1,0 +1,13 @@
+D:\Program File\Visual Studio projects\Bisectionmethod\Bisectionmethod\bin\Debug\Bisectionmethod.exe.config
+D:\Program File\Visual Studio projects\Bisectionmethod\Bisectionmethod\obj\Debug\Bisectionmethod.csprojResolveAssemblyReference.cache
+D:\Program File\Visual Studio projects\Bisectionmethod\Bisectionmethod\bin\Debug\Bisectionmethod.exe
+D:\Program File\Visual Studio projects\Bisectionmethod\Bisectionmethod\bin\Debug\Bisectionmethod.pdb
+D:\Program File\Visual Studio projects\Bisectionmethod\Bisectionmethod\obj\Debug\Bisectionmethod.exe
+D:\Program File\Visual Studio projects\Bisectionmethod\Bisectionmethod\obj\Debug\Bisectionmethod.pdb
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Bisectionmethod\Bisectionmethod\bin\Debug\Bisectionmethod.exe.config
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Bisectionmethod\Bisectionmethod\bin\Debug\Bisectionmethod.exe
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Bisectionmethod\Bisectionmethod\bin\Debug\Bisectionmethod.pdb
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Bisectionmethod\Bisectionmethod\obj\Debug\Bisectionmethod.csprojResolveAssemblyReference.cache
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Bisectionmethod\Bisectionmethod\obj\Debug\Bisectionmethod.csproj.CoreCompileInputs.cache
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Bisectionmethod\Bisectionmethod\obj\Debug\Bisectionmethod.exe
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Bisectionmethod\Bisectionmethod\obj\Debug\Bisectionmethod.pdb

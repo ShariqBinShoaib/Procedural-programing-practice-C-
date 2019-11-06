@@ -1,0 +1,7 @@
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\MagicOfOne\MagicOfOne\bin\Debug\MagicOfOne.exe.config
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\MagicOfOne\MagicOfOne\bin\Debug\MagicOfOne.exe
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\MagicOfOne\MagicOfOne\bin\Debug\MagicOfOne.pdb
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\MagicOfOne\MagicOfOne\obj\Debug\MagicOfOne.csprojResolveAssemblyReference.cache
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\MagicOfOne\MagicOfOne\obj\Debug\MagicOfOne.csproj.CoreCompileInputs.cache
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\MagicOfOne\MagicOfOne\obj\Debug\MagicOfOne.exe
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\MagicOfOne\MagicOfOne\obj\Debug\MagicOfOne.pdb

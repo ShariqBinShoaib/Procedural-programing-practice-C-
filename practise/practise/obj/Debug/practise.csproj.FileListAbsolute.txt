@@ -1,0 +1,7 @@
+C:\Users\SBS_a\source\repos\practise\practise\bin\Debug\practise.exe.config
+C:\Users\SBS_a\source\repos\practise\practise\bin\Debug\practise.exe
+C:\Users\SBS_a\source\repos\practise\practise\bin\Debug\practise.pdb
+C:\Users\SBS_a\source\repos\practise\practise\obj\Debug\practise.csprojResolveAssemblyReference.cache
+C:\Users\SBS_a\source\repos\practise\practise\obj\Debug\practise.csproj.CoreCompileInputs.cache
+C:\Users\SBS_a\source\repos\practise\practise\obj\Debug\practise.exe
+C:\Users\SBS_a\source\repos\practise\practise\obj\Debug\practise.pdb

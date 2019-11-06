@@ -1,0 +1,13 @@
+D:\Program File\Visual Studio projects\Loops\Loops\bin\Debug\Loops.exe.config
+D:\Program File\Visual Studio projects\Loops\Loops\bin\Debug\Loops.exe
+D:\Program File\Visual Studio projects\Loops\Loops\bin\Debug\Loops.pdb
+D:\Program File\Visual Studio projects\Loops\Loops\obj\Debug\Loops.csprojResolveAssemblyReference.cache
+D:\Program File\Visual Studio projects\Loops\Loops\obj\Debug\Loops.exe
+D:\Program File\Visual Studio projects\Loops\Loops\obj\Debug\Loops.pdb
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Loops\Loops\obj\Debug\Loops.csprojResolveAssemblyReference.cache
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Loops\Loops\obj\Debug\Loops.pdb

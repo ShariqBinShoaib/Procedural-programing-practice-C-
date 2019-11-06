@@ -1,0 +1,1 @@
+D:\Program File\Visual Studio projects\SquareNumber\SquareNumber\bin\Debug\SquareNumber.exe.config

@@ -1,0 +1,6 @@
+D:\Program File\Visual Studio projects\MatrixaAddition\MatrixaAddition\bin\Debug\MatrixaAddition.exe.config
+D:\Program File\Visual Studio projects\MatrixaAddition\MatrixaAddition\bin\Debug\MatrixaAddition.exe
+D:\Program File\Visual Studio projects\MatrixaAddition\MatrixaAddition\bin\Debug\MatrixaAddition.pdb
+D:\Program File\Visual Studio projects\MatrixaAddition\MatrixaAddition\obj\Debug\MatrixaAddition.exe
+D:\Program File\Visual Studio projects\MatrixaAddition\MatrixaAddition\obj\Debug\MatrixaAddition.pdb
+D:\Program File\Visual Studio projects\MatrixaAddition\MatrixaAddition\obj\Debug\MatrixaAddition.csprojResolveAssemblyReference.cache

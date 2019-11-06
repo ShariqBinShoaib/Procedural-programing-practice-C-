@@ -1,0 +1,13 @@
+D:\Program File\Visual Studio projects\JaggedArray\JaggedArray\bin\Debug\JaggedArray.exe.config
+D:\Program File\Visual Studio projects\JaggedArray\JaggedArray\bin\Debug\JaggedArray.exe
+D:\Program File\Visual Studio projects\JaggedArray\JaggedArray\bin\Debug\JaggedArray.pdb
+D:\Program File\Visual Studio projects\JaggedArray\JaggedArray\obj\Debug\JaggedArray.csprojResolveAssemblyReference.cache
+D:\Program File\Visual Studio projects\JaggedArray\JaggedArray\obj\Debug\JaggedArray.exe
+D:\Program File\Visual Studio projects\JaggedArray\JaggedArray\obj\Debug\JaggedArray.pdb
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\JaggedArray\JaggedArray\bin\Debug\JaggedArray.exe.config
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\JaggedArray\JaggedArray\bin\Debug\JaggedArray.exe
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\JaggedArray\JaggedArray\bin\Debug\JaggedArray.pdb
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\JaggedArray\JaggedArray\obj\Debug\JaggedArray.csprojResolveAssemblyReference.cache
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\JaggedArray\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\JaggedArray\JaggedArray\obj\Debug\JaggedArray.exe
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\JaggedArray\JaggedArray\obj\Debug\JaggedArray.pdb

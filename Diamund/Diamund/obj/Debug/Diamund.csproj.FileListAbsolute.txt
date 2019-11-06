@@ -1,0 +1,6 @@
+D:\Program File\Visual Studio projects\Diamund\Diamund\bin\Debug\Diamund.exe.config
+D:\Program File\Visual Studio projects\Diamund\Diamund\bin\Debug\Diamund.exe
+D:\Program File\Visual Studio projects\Diamund\Diamund\bin\Debug\Diamund.pdb
+D:\Program File\Visual Studio projects\Diamund\Diamund\obj\Debug\Diamund.csprojResolveAssemblyReference.cache
+D:\Program File\Visual Studio projects\Diamund\Diamund\obj\Debug\Diamund.exe
+D:\Program File\Visual Studio projects\Diamund\Diamund\obj\Debug\Diamund.pdb

@@ -1,0 +1,7 @@
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Array_Sorting\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Array_Sorting\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Array_Sorting\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Array_Sorting\ConsoleApplication6\obj\Debug\Array_Sorting.csprojResolveAssemblyReference.cache
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Array_Sorting\ConsoleApplication6\obj\Debug\Array_Sorting.csproj.CoreCompileInputs.cache
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Array_Sorting\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Array_Sorting\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb

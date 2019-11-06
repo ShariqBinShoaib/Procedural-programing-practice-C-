@@ -1,0 +1,13 @@
+D:\Program File\Visual Studio projects\Exchange_casesofletter\Exchange_casesofletter\bin\Debug\Exchange_casesofletter.exe.config
+D:\Program File\Visual Studio projects\Exchange_casesofletter\Exchange_casesofletter\bin\Debug\Exchange_casesofletter.exe
+D:\Program File\Visual Studio projects\Exchange_casesofletter\Exchange_casesofletter\bin\Debug\Exchange_casesofletter.pdb
+D:\Program File\Visual Studio projects\Exchange_casesofletter\Exchange_casesofletter\obj\Debug\Exchange_casesofletter.csprojResolveAssemblyReference.cache
+D:\Program File\Visual Studio projects\Exchange_casesofletter\Exchange_casesofletter\obj\Debug\Exchange_casesofletter.exe
+D:\Program File\Visual Studio projects\Exchange_casesofletter\Exchange_casesofletter\obj\Debug\Exchange_casesofletter.pdb
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Exchange_casesofletter\Exchange_casesofletter\bin\Debug\Exchange_casesofletter.exe.config
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Exchange_casesofletter\Exchange_casesofletter\bin\Debug\Exchange_casesofletter.exe
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Exchange_casesofletter\Exchange_casesofletter\bin\Debug\Exchange_casesofletter.pdb
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Exchange_casesofletter\Exchange_casesofletter\obj\Debug\Exchange_casesofletter.csprojResolveAssemblyReference.cache
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Exchange_casesofletter\Exchange_casesofletter\obj\Debug\Exchange_casesofletter.csproj.CoreCompileInputs.cache
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Exchange_casesofletter\Exchange_casesofletter\obj\Debug\Exchange_casesofletter.exe
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Exchange_casesofletter\Exchange_casesofletter\obj\Debug\Exchange_casesofletter.pdb

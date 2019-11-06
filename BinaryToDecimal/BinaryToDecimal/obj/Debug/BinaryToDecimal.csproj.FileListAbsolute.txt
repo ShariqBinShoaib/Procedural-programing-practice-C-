@@ -1,0 +1,13 @@
+D:\Program File\Visual Studio projects\BinaryToDecimal\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+D:\Program File\Visual Studio projects\BinaryToDecimal\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+D:\Program File\Visual Studio projects\BinaryToDecimal\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+D:\Program File\Visual Studio projects\BinaryToDecimal\BinaryToDecimal\obj\Debug\BinaryToDecimal.csprojResolveAssemblyReference.cache
+D:\Program File\Visual Studio projects\BinaryToDecimal\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+D:\Program File\Visual Studio projects\BinaryToDecimal\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\BinaryToDecimal\BinaryToDecimal\obj\Debug\BinaryToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\BinaryToDecimal\BinaryToDecimal\obj\Debug\BinaryToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\BinaryToDecimal\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\BinaryToDecimal\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\BinaryToDecimal\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\BinaryToDecimal\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\BinaryToDecimal\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb

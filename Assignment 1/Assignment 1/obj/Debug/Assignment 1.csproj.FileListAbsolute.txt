@@ -1,0 +1,13 @@
+D:\Program File\Visual Studio projects\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+D:\Program File\Visual Studio projects\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+D:\Program File\Visual Studio projects\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+D:\Program File\Visual Studio projects\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+D:\Program File\Visual Studio projects\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
+D:\Program File\Visual Studio projects\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojResolveAssemblyReference.cache
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojResolveAssemblyReference.cache
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\SBS_a\Documents\Visual Studio 2017\Codes\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb

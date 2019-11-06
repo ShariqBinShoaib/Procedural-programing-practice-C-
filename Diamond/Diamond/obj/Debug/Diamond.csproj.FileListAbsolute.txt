@@ -1,0 +1,6 @@
+D:\Program File\Visual Studio projects\Diamond\Diamond\bin\Debug\Diamond.exe.config
+D:\Program File\Visual Studio projects\Diamond\Diamond\bin\Debug\Diamond.exe
+D:\Program File\Visual Studio projects\Diamond\Diamond\bin\Debug\Diamond.pdb
+D:\Program File\Visual Studio projects\Diamond\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache
+D:\Program File\Visual Studio projects\Diamond\Diamond\obj\Debug\Diamond.exe
+D:\Program File\Visual Studio projects\Diamond\Diamond\obj\Debug\Diamond.pdb

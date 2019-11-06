@@ -1,0 +1,6 @@
+D:\Program File\Visual Studio projects\Factorial\Factorial\bin\Debug\Factorial.exe.config
+D:\Program File\Visual Studio projects\Factorial\Factorial\bin\Debug\Factorial.exe
+D:\Program File\Visual Studio projects\Factorial\Factorial\bin\Debug\Factorial.pdb
+D:\Program File\Visual Studio projects\Factorial\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+D:\Program File\Visual Studio projects\Factorial\Factorial\obj\Debug\Factorial.exe
+D:\Program File\Visual Studio projects\Factorial\Factorial\obj\Debug\Factorial.pdb

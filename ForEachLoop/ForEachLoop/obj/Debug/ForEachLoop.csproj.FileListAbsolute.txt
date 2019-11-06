@@ -1,0 +1,2 @@
+D:\Program File\Visual Studio projects\ForEachLoop\ForEachLoop\bin\Debug\ForEachLoop.exe.config
+D:\Program File\Visual Studio projects\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.csprojResolveAssemblyReference.cache
